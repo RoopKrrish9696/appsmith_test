@@ -16,7 +16,7 @@
     "mobileRightColumn": 45,
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 11,
+    "leftColumn": 13,
     "dynamicBindingPathList": [
         {"key": "fillColor"},
         {"key": "borderRadius"}
@@ -24,7 +24,7 @@
     "key": "6syvyia9ej",
     "showResult": false,
     "isDeprecated": false,
-    "rightColumn": 13,
+    "rightColumn": 15,
     "counterClosewise": false,
     "widgetId": "e9dr47d1dx",
     "isVisible": true,
